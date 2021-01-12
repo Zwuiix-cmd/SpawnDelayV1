@@ -1,0 +1,11 @@
+---
+name: SpawnDelay
+version: 1
+main: Zwuiix\Main
+api: 3.0.0
+author: Zwuiix
+
+commands:
+  spawn:
+    description: "Allows you to teleport to the server spawn"
+...
